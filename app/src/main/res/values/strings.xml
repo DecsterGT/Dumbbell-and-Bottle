@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dumbbell and Bottle</string>
+    <string name="places">Places</string>
+
+    <string name="events">Events</string>
+    <string name="create_an_account">Create an account</string>
+
+    <string name="to_come_in">To come in</string>
+    <string name="sign">Sign in to your account</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="notes">Enter your workout data</string>
+</resources>

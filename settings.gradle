@@ -1,0 +1,5 @@
+include ':MaterialEditText-2.1.4'
+include ':MaterialEditText-2.1.4'
+include ':MaterialEditText-2.1.4'
+include ':app'
+rootProject.name = "MyProject"
